@@ -7,11 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "EB143F7",
-    "lastKnownWriteTime" : 1531551282,
-    "last_content_update" : 1531551282403,
+    "lastKnownWriteTime" : 1531554375,
+    "last_content_update" : 1531554375236,
     "path" : "C:/R/project180714/DataFrameDemo.R",
     "project_path" : "DataFrameDemo.R",
     "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
     "relative_order" : 6,
