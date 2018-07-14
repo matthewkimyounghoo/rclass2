@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531549028430.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1872791907",
+    "id" : "9951AEE3",
+    "lastKnownWriteTime" : 1531551260,
+    "last_content_update" : 1531551260729,
+    "path" : "C:/R/project180714/ListDemo.R",
+    "project_path" : "ListDemo.R",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
